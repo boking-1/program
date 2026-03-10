@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2811144",
+      "name": "地址管理",
+      "font_class": "dizhiguanli",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "9066652",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e88b",
+      "unicode_decimal": 59531
+    }
+  ]
+}
